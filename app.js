@@ -1,4 +1,6 @@
 //namaste
+//hello
+
 let genBtn = document.querySelector("button");
 
 genBtn.addEventListener("click", () => {
